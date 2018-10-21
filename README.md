@@ -3,7 +3,7 @@ Practice with React Redux and Firebase
 
 # Features
 - Authentication (Sign in, Sign up)
-# If authenticate
+# If authenticated
   - Create project/s
   - See other projects created by other users
 
@@ -36,4 +36,14 @@ Practice with React Redux and Firebase
     });
 
   export default firebase;
+  ```
+
+- Add a .firebaserc file in the root directory and insert the following
+
+  ```sh
+  {
+    "projects": {
+      "default": "your_project_id_on_firebase"
+    }
+  }
   ```

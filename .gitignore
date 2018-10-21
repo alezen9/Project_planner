@@ -7,6 +7,9 @@
 # config files
 /src/config/firebaseConfig.js
 
+# .firebaserc
+/.firebaserc
+
 # testing
 /coverage
 
