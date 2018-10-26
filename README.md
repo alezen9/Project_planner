@@ -1,17 +1,22 @@
 # Project Planner
 Practice with React Redux and Firebase
 
+## [Live / Demo](https://net-ninja-mario-plan-84b3d.firebaseapp.com)
+
 # Features
 - Authentication (Sign in, Sign up)
 # If authenticated
   - Create project/s
   - See other projects created by other users
+  - Get notifications when a user creates a project or joins the application for the first time
 
 # Upcoming Features
-- Notifications
+- Visual improvements
 
 
 # IMPORTANT
+> If you want to use the code, do this to make it work
+
 - create a config directory in src
 - create a file named firebaseConfig.js in config directory
 - add the following into the file:

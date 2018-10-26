@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import './App.css';
 
 import Navbar from './component/layout/Navbar';
 import Dashboard from './component/dashboard/Dashboard';
