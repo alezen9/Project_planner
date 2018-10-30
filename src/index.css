@@ -1,6 +1,13 @@
 html{
   min-height: 100%;
 }
+a{ color: white; text-decoration: none;}
+a:focus{outline: none;}
+.profile{
+  font-weight: 500;
+  
+}
+
 body {
   margin: 0;
   padding: 0;
